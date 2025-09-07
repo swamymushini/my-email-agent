@@ -2,6 +2,6 @@
 # Add any additional packages you need here
 
 # Examples:
-# requests==2.31.0
+# No dependencies required for simple hello API
 # python-dotenv==1.0.0
 # fastapi==0.104.1
